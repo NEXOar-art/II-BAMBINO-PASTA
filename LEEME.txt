@@ -1,0 +1,7 @@
+IL BAMBINO PASTA — ARCHIVOS DE LA PÁGINA
+
+Abrí index.html en el navegador. Las imágenes están en esta misma carpeta y se llaman fondo-pasta.jpg y logo-pasta.jpg.
+
+El botón Administrador usa la clave 0608. Los precios editados se guardan en el almacenamiento local del navegador y vuelven a aparecer cuando se abre esta página en ese mismo navegador.
+
+Este guardado es local a ese navegador; no modifica los archivos ni sincroniza los precios con otros dispositivos o visitantes.
